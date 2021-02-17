@@ -1,4 +1,0 @@
-Role 	Username 	Password
-Admin 	manu@gmail.com 	manu077
-Cashier 	cashier@gmail.com 	manu077
-Salesman 	salesman@gmail.com 	manu077
