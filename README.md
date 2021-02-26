@@ -1,8 +1,5 @@
 ## Modern POS - Point of Sale with Stock Management System
 
-### Designed and Developed by manuelduarte077
-
-## With the collaboration of [ruckonic](https://github.com/ruckonic)
 
 
 Role 	Username 	Password
