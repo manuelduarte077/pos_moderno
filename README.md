@@ -2,10 +2,11 @@
 
 
 
-Role 	Username 	Password
-Admin 	manu@gmail.com 	manu077
-Cashier 	cashier@gmail.com 	manu077
-Salesman 	salesman@gmail.com 	manu077
+Role 	Username 	Password <br/> 
+
+Admin 	manu@gmail.com 	manu077<br/> 
+Cashier 	cashier@gmail.com 	manu077 <br/> 
+Salesman 	salesman@gmail.com 	manu077 <br/> 
 
 Please make sure to update tests as appropriate.
 
